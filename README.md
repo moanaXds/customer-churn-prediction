@@ -85,17 +85,6 @@ This project builds a **predictive model** that identifies customers at high ris
 
 ---
 
-## 📊 Key Results
-
-### Model Performance
-| Metric | Score |
-|--------|-------|
-| **Accuracy** | 89.3% |
-| **Precision** | 87.5% |
-| **Recall** | 91.2% |
-| **True Positives** | 1,245 |
-| **False Positives** | 186 |
-
 ### Feature Importance Insights
 The most influential features in predicting churn:
 1. **Price volatility metrics** - Customers sensitive to pricing changes have higher churn risk
@@ -310,9 +299,8 @@ Data Science Enthusiast | Portfolio Project | BCG X Forage Graduate
 
 ## 📞 Connect & Feedback
 
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [Your GitHub Profile]
-- 📧 Email: [your.email@example.com]
+- 💼 LinkedIn: linkedin.com/in/moanaxds
+- 📧 Email: [moana.xds@gmail.com]
 
 **Have feedback or questions?** Feel free to open an issue or reach out!
 
@@ -322,6 +310,6 @@ Data Science Enthusiast | Portfolio Project | BCG X Forage Graduate
 
 **⭐ If you found this project helpful, please consider giving it a star!**
 
-Last Updated: May 2024
+Last Updated: May 2026
 
 </div>
